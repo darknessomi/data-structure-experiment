@@ -17,7 +17,7 @@
                BlueprintIdentifier = "0F11802219B457C6004E39EB"
                BuildableName = "Test090101.app"
                BlueprintName = "Test090101"
-               ReferencedContainer = "container:TellBook.xcodeproj">
+               ReferencedContainer = "container:Test090101.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "0F11804219B457C6004E39EB"
                BuildableName = "Test090101Tests.xctest"
                BlueprintName = "Test090101Tests"
-               ReferencedContainer = "container:TellBook.xcodeproj">
+               ReferencedContainer = "container:Test090101.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "0F11804219B457C6004E39EB"
                BuildableName = "Test090101Tests.xctest"
                BlueprintName = "Test090101Tests"
-               ReferencedContainer = "container:TellBook.xcodeproj">
+               ReferencedContainer = "container:Test090101.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -59,7 +59,7 @@
             BlueprintIdentifier = "0F11802219B457C6004E39EB"
             BuildableName = "Test090101.app"
             BlueprintName = "Test090101"
-            ReferencedContainer = "container:TellBook.xcodeproj">
+            ReferencedContainer = "container:Test090101.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "0F11802219B457C6004E39EB"
             BuildableName = "Test090101.app"
             BlueprintName = "Test090101"
-            ReferencedContainer = "container:TellBook.xcodeproj">
+            ReferencedContainer = "container:Test090101.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,7 +96,7 @@
             BlueprintIdentifier = "0F11802219B457C6004E39EB"
             BuildableName = "Test090101.app"
             BlueprintName = "Test090101"
-            ReferencedContainer = "container:TellBook.xcodeproj">
+            ReferencedContainer = "container:Test090101.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

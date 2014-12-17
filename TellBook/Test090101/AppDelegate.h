@@ -1,9 +1,6 @@
 //
 //  AppDelegate.h
-//  Test090101
-//
-//  Created by ibokan on 14-9-1.
-//  Copyright (c) 2014年 Mrli. All rights reserved.
+//  TellBook
 //
 
 #import <UIKit/UIKit.h>

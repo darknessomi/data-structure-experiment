@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>378550E5-0408-4B6A-931E-8551F7BC10F7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Test090101</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>28B9F0E7808544212DA512470BBB19CE2A00681B</key>
+		<string>https://github.com/darknessomi/data-structure-experiment.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TellBook/Test090101.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>28B9F0E7808544212DA512470BBB19CE2A00681B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/darknessomi/data-structure-experiment.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>28B9F0E7808544212DA512470BBB19CE2A00681B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>28B9F0E7808544212DA512470BBB19CE2A00681B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>data-structure-experiment</string>
+		</dict>
+	</array>
+</dict>
+</plist>

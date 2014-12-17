@@ -43,7 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0F11802319B457C6004E39EB /* TellBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TellBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F11802319B457C6004E39EB /* Test090101.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test090101.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F11802619B457C6004E39EB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0F11802819B457C6004E39EB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		0F11802A19B457C6004E39EB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -115,7 +115,7 @@
 		0F11802419B457C6004E39EB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0F11802319B457C6004E39EB /* TellBook.app */,
+				0F11802319B457C6004E39EB /* Test090101.app */,
 				0F11804319B457C6004E39EB /* Test090101Tests.xctest */,
 			);
 			name = Products;
@@ -204,7 +204,7 @@
 			);
 			name = Test090101;
 			productName = Test090101;
-			productReference = 0F11802319B457C6004E39EB /* TellBook.app */;
+			productReference = 0F11802319B457C6004E39EB /* Test090101.app */;
 			productType = "com.apple.product-type.application";
 		};
 		0F11804219B457C6004E39EB /* Test090101Tests */ = {
@@ -239,7 +239,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0F11801E19B457C6004E39EB /* Build configuration list for PBXProject "TellBook" */;
+			buildConfigurationList = 0F11801E19B457C6004E39EB /* Build configuration list for PBXProject "Test090101" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -411,7 +411,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Test090101/Test090101-Prefix.pch";
 				INFOPLIST_FILE = "Test090101/Test090101-Info.plist";
-				PRODUCT_NAME = TellBook;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -423,7 +423,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Test090101/Test090101-Prefix.pch";
 				INFOPLIST_FILE = "Test090101/Test090101-Info.plist";
-				PRODUCT_NAME = TellBook;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -471,7 +471,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0F11801E19B457C6004E39EB /* Build configuration list for PBXProject "TellBook" */ = {
+		0F11801E19B457C6004E39EB /* Build configuration list for PBXProject "Test090101" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0F11805319B457C6004E39EB /* Debug */,
